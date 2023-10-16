@@ -1,6 +1,6 @@
 use std::{sync::Arc, process::exit};
 
-use visualizer::{show, auth::auth};
+use visify::{show, auth::auth};
 
 #[tokio::main]
 async fn main() {
