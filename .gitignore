@@ -1,0 +1,4 @@
+/target
+.spotify_token_cache.json
+config.yml
+spotify.png
